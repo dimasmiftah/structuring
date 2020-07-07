@@ -1,0 +1,12 @@
+dimas miftah	waffle iron	80	2
+dimas miftah	blender	200	1
+dimas miftah	knife	10	4
+sasi kirana	waffle iron	80	1
+sasi kirana	knife	10	2
+sasi kirana	pot	20	3
+benno alif	waffle iron	80	2
+benno alif	blender	200	1
+benno alif	knife	10	4
+fitri lestari	waffle iron	80	1
+fitri lestari	knife	10	2
+fitri lestari	pot	20	3
